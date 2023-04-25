@@ -1,4 +1,4 @@
-<div class="flex flex-col h-full justify-center items-center">
+<div class="flex flex-col justify-center items-center">
   <img
     src="https://media.giphy.com/media/3ohuP86bdGnXtyqtDG/giphy.gif"
     alt="under construction"

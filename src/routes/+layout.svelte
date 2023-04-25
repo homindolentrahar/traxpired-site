@@ -1,5 +1,6 @@
 <script>
   import "../app.css";
+  import Footer from "../components/Footer.svelte";
   import Navbar from "../components/Navbar.svelte";
 </script>
 
@@ -9,5 +10,8 @@
 
 <div class="flex flex-col h-screen">
   <Navbar />
-  <slot />
+  <div class="flex-grow py-8 px-16">
+    <slot />
+  </div>
+  <Footer />
 </div>

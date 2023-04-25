@@ -1,4 +1,4 @@
-<div class="flex flex-col h-full justify-center items-center">
+<div class="flex flex-col justify-center items-center">
   <h1 class="text-app_black dark:text-app_white text-3xl font-bold mt-8">
     Privacy Policy
   </h1>
