@@ -7,3 +7,7 @@
 body {
   @apply bg-app_white dark:bg-app_black;
 }
+
+.nav-link {
+  @apply text-app_black dark:text-app_white hover:text-app_primary_light hover:dark:text-app_primary_dark transition-all duration-200;
+}
