@@ -8,8 +8,12 @@ body {
   @apply bg-app_white dark:bg-app_black;
 }
 
+.text {
+  @apply text-app_black dark:text-app_white;
+}
+
 .nav-link {
-  @apply text-app_black dark:text-app_white hover:text-app_primary_light hover:dark:text-app_primary_dark transition-all duration-200;
+  @apply hover:text-app_primary_light hover:dark:text-app_primary_dark transition-all duration-200;
 }
 
 .footer-link {

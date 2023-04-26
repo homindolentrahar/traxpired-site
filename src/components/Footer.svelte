@@ -6,7 +6,7 @@
 </script>
 
 <footer
-  class="grid grid-cols-3 items-start gap-16 px-20 py-10 bg-app_light dark:bg-app_background text-app_black dark:text-app_white"
+  class="grid grid-cols-3 items-start gap-16 px-20 py-10 bg-gray-100 dark:bg-app_background text-app_black dark:text-app_white"
 >
   <div class="container">
     <div class="flex flex-row items-center gap-4">
